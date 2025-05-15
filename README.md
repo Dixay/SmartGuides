@@ -27,4 +27,4 @@
 </li></ol>
 <h3><strong>Troubleshooting:</strong></h3>
 <ul><li>If guides or shapes don’t appear, ensure you’re using the latest version of Aseprite.
-</li><li>For bug reports or feature suggestions, feel free to DM me or comment below! 🐛</li></ul>
+</li><li>For bug reports or feature suggestions, feel free to DM me! 🐛</li></ul>
